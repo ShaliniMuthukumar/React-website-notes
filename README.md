@@ -12,3 +12,5 @@ Overall, it is a simple and user-friendly tool for managing notes without the ne
 
 
  I deployed my react notes maker project and here it is : https://notes-maker-app.netlify.app/
+ 
+ In addition to that , I attached apk of my notes maker app.
